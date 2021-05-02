@@ -1,1 +1,1 @@
-jack of all trades
+Jack of all trades, master of .net
